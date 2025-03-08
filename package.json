@@ -15,15 +15,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/m-rejdych/multi-snake.git"
+    "url": "git+https://github.com/reyidaas/multi-snake.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/m-rejdych/multi-snake/issues"
+    "url": "https://github.com/reyidaas/multi-snake/issues"
   },
-  "homepage": "https://github.com/m-rejdych/multi-snake#readme",
+  "homepage": "https://github.com/reyidaas/multi-snake#readme",
   "devDependencies": {
     "concurrently": "^6.2.0"
   }

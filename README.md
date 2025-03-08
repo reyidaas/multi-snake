@@ -17,7 +17,7 @@ https://multi-snake-app.herokuapp.com
 Clone the project
 
 ```bash
-  git clone https://github.com/m-rejdych/multi-snake
+  git clone https://github.com/reyidaas/multi-snake
 ```
 
 Go to the project directory
